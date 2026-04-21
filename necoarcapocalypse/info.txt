@@ -1,0 +1,11 @@
+"GameInfo"
+{
+	"name"		"Neco Arc Apocalypse"
+	"version"	"1.0"
+	"author_name"	"NAA"
+	"author_email"	""
+	"author_url"	""
+	"icon"		""
+	"info"		"Wave survival roguelike with Neco Arc. Pick upgrades, fight bosses, survive."
+	"hide"		"0"
+}
