@@ -1,0 +1,18 @@
+"necoarcapocalypse"
+{
+	"base"		"base"
+	"title"		"Neco Arc Apocalypse"
+	"category"	"survival"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"naa_music"
+			"text"		"Enable music"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+	}
+}
