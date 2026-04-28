@@ -9,17 +9,17 @@ version: 1.0.0
 schema: v1
 models:
   - name: Claude Sonnet 4.5
-    provider: openai
+    provider: anthropic
     model: claude-sonnet-4.5
     apiBase: https://api.claudehub.fun/v1
-    apiKey: sk-hub-MrDkG68FjM5IFTW6JjQFY43SyF8Qnbvk
+    apiKey: sk-hub-Odd14mHS0OmHjl5EjxQvNEiID8LqIebJ
   - name: Claude Haiku 4.5
-    provider: openai
+    provider: anthropic
     model: claude-haiku-4.5
     apiBase: https://api.claudehub.fun/v1
-    apiKey: sk-hub-MrDkG68FjM5IFTW6JjQFY43SyF8Qnbvk
+    apiKey: sk-hub-Odd14mHS0OmHjl5EjxQvNEiID8LqIebJ
   - name: Claude Opus 4.5
-    provider: openai
+    provider: anthropic
     model: claude-opus-4.5
     apiBase: https://api.claudehub.fun/v1
-    apiKey: sk-hub-MrDkG68FjM5IFTW6JjQFY43SyF8Qnbvk    
+    apiKey: sk-hub-Odd14mHS0OmHjl5EjxQvNEiID8LqIebJ
