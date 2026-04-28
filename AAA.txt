@@ -1,0 +1,23 @@
+Файл, отвечающий за телепортацию застрявших врагов, или врагов которые находятся слишком далеко от игрока и не идут к нему (полностью бездействуют) не работает вообще. Враги никак не перемещаются. Нужно исправить это, так как они застревают за текстурами или их невозможно найти и играть становится невозможно. Отвечай максимально коротко, используй как можно меньше токенов.
+
+Если необходимо, переработай то, как работает перемещение бездействующих врагов ближе к игроку полностью.
+
+name: ClaudeHub
+version: 1.0.0
+schema: v1
+models:
+  - name: Claude Sonnet 4.5
+    provider: openai
+    model: claude-sonnet-4.5
+    apiBase: https://api.claudehub.fun/v1
+    apiKey: sk-hub-MrDkG68FjM5IFTW6JjQFY43SyF8Qnbvk
+  - name: Claude Haiku 4.5
+    provider: openai
+    model: claude-haiku-4.5
+    apiBase: https://api.claudehub.fun/v1
+    apiKey: sk-hub-MrDkG68FjM5IFTW6JjQFY43SyF8Qnbvk
+  - name: Claude Opus 4.5
+    provider: openai
+    model: claude-opus-4.5
+    apiBase: https://api.claudehub.fun/v1
+    apiKey: sk-hub-MrDkG68FjM5IFTW6JjQFY43SyF8Qnbvk    
